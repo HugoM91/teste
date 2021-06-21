@@ -1,0 +1,43 @@
+# DOCS for the right spelling of keys:
+# http://mrjbq7.github.io/ta-lib/func_groups/momentum_indicators.html
+
+RSI:
+  timeperiod: 14
+
+MACD:
+  slowperiod: 28
+  fastperiod: 7
+  signalperiod: 14
+
+ADX:
+  timeperiod: 14
+
+AROONOSC:
+  timeperiod: 14
+
+WILLR:
+  timeperiod: 14
+
+ATR:
+  timeperiod: 14
+
+BBANDS:
+  timeperiod: 5
+  nbdevup: 2
+  nbdevdn: 2
+  matype: 0
+
+STOCHRSI:
+  timeperiod: 14
+  fastk_period: 5
+  fastd_period: 7
+  fastd_matype: 0
+
+EMA:
+  timeperiod: 14
+
+OBV:
+
+BOP:
+
+TRANGE:
